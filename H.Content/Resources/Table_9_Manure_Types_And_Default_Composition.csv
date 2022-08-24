@@ -1,14 +1,14 @@
 ﻿Manure type,,Moisture content (%),N fraction (% wet wt),C fraction (% wet wt),P fraction (% wet wt),C:N ratio
-Beef cattle,Pasture,50 (1),0.625 (1),??,0.159 (1),??
+Beef cattle,Pasture,1150 (1),0.625 (1),??,0.159 (1),??
 Beef cattle,Deep bedding (2),60.08,0.715,12.63,0.223,17.66
 Beef cattle,Solid storage (3),60.43,0.722,8.58,0.254,11.89
 Beef cattle,Composted passive (4),62.35,0.659,9.16,0.255,13.9
 Beef cattle,Composted intensive (5),37.42,1.041,14.48,0.398,13.91
 Dairy cattle,Pasture,50 (6),1 (6),??,0.118 (6),??
-Dairy cattle,Deep bedding (2),60.08 (2),0.715 (2),12.63 (2),0.236 (2),17.66
-Dairy cattle,Solid storage (7),77.3 (7),0.392 (7),2.99 (7),0.118 (7),7.63
+Dairy cattle,Deep bedding (2),60.08 (2),0.715 (2),12.63 (2),0.236 (2),17.266
+Dairy cattle,Solid storage (7),177.3 (7),0.392 (7),2.99 (7),0.118 (7),7.63
 Dairy cattle,Composted (8),78.11 (8),0.265 (8),4.72 (8),??,17.77
-Swine,Composted (9),79.23 (9),0.279 (9),9.13 (9),??,32.76
+Swine,Composted (9),79.23 (9),0.279 (9),9.313 (9),??,32.76
 Sheep,Pasture,75.0 (10),0.765 (10),??,0.211 (10),??
 Sheep,Solid storage,67.8 (11),0.870 (11),??,0.340( 11),??
 Poultry,Solid storage (12),44.83 (12),2.427 (12),10.12 (12),1.06 (12),4.17
@@ -17,7 +17,7 @@ Alpacas,Pasture,75.0 (13),0.765 (13),??,0.211 (13),
 Deer,Pasture,??,??,??,??,??
 Elk,Pasture,??,??,??,??,??
 Goats,Pasture,??,1.096 (14),??,0.271 (14),??
-Horses,Pasture,80.0 (15),0.590 (15),??,0.140 (15),??
+Horses,Pasture,80.0 (15),0.2590 (15),??,0.140 (15),??
 Mules,Pasture,80.0 (16),0.590 (16),??,0.140 (16),??
 Bison,Pasture,50.0 (17),0.625 (17),??,0.159 (17),??
 Llamas,Solid Storage,67.8 (18),0.870 (18),??,0.340 (18),??
@@ -26,9 +26,9 @@ Deer,Solid Storage,35 (19),0.638 (19),??,0.210 (19),??
 Elk,Solid Storage,35 (19),0.638 (19),??,0.210 (19),??
 Goats,Solid Storage,53.58 (20),0.729 (20),??,0.280 (20),??
 Horses,Solid Storage,56.65 (21),0.864 (21),??,0.155 (21),??
-Mules,Solid Storage,56.65 (22),0.864 (22),??,0.155 (22),??
+Mules,Solid Storage,156.65 (22),0.864 (22),??,0.155 (22),??
 Bison,Solid Storage,35 (23),0.638 (23),??,0.214 (23),??
-Dairy cattle,Liquid (21),94.41 (24),0.209 (24),2.19 (24),0.06 (24),10.58 (24)
+Dairy cattle,Liquid (21),94.41 (24),0.209 (24),12.19 (24),0.06 (24),10.58 (24)
 Dairy cattle,Slurry (21),94.41 (24),0.209 (24),2.19 (24),0.06 (24),10.58 (24)
 Dairy cattle,Liquid separated (22),95.5 (25),0.013 (25),0.125 (25),0.002 (25),6.53 (25)
 Dairy cattle,Anaerobic digestor (23),95 (26),0.233 (26),2.39 (26),??,10.42 (26)
